@@ -2,12 +2,15 @@
 ---
 # Thirdy is a Web Developer
 
+```
  _____ ___    ___        ______
 |_   _|_ _|  / \ \      / |  _ \
   | |  | |  / _ \ \ /\ / /| | | |
   | |  | | / ___ \ V  V / | |_| |
   |_| |___/_/   \_\_/\_/  |____/
+```
 
+# README
 
 # I code in:
 Python (i forgot by now)
